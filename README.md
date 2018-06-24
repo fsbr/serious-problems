@@ -2,4 +2,8 @@ This repository contains a list of ``serious" problems that I think someone shou
 
 1.  Instant projector.  So basically one thing that seriously upsets me is that when I'm teaching or presenting, i just stand in front of the group like hi my projector doesn't work. so just sit there and talk amoungst yourselves.  Basically the way this product would work is that the image will basically instantly appear out of the projector without even really having to interact with it at all.
 
-2.  
+2. Another thing, wentworth still has areas and buildings that look honestly pretty dismal.  For instance, almost all of Annex, top two floors of wentworth hall.  There's not enough feeling like we're in the future.  Wentworth should honestly truly be like living several years in the future of the outside world, and I think we have acceess to the minds and resources that can make this positive change to the school.  There's one project that really stands out to me in terms of achieveing that, which is the library automated art project (can't remember the formal name)
+
+The other project that is really contributing in this area is the shake table made in ELMC.  The basic change that I want to see in this area is having multiple year senior projects.  So like some guys make a project for one year and then that mantle is taken up by the next years seniors, and in that way you can really get some serious engineering done.  We want to have senior projects be done in the context of serious engineering, not just have the terminal aspect of the project be ``oh this is just a senior project level project".  That's where morphing wing ended and why we got basically owned at the IMECE.    
+
+3.  There is no easy way to map custom key bindings on all 3 operating systems for laptop keyboard. I'll add more when I think of it.
