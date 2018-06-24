@@ -6,4 +6,8 @@ This repository contains a list of ``serious" problems that I think someone shou
 
 The other project that is really contributing in this area is the shake table made in ELMC.  The basic change that I want to see in this area is having multiple year senior projects.  So like some guys make a project for one year and then that mantle is taken up by the next years seniors, and in that way you can really get some serious engineering done.  We want to have senior projects be done in the context of serious engineering, not just have the terminal aspect of the project be ``oh this is just a senior project level project".  That's where morphing wing ended and why we got basically owned at the IMECE.    
 
-3.  There is no easy way to map custom key bindings on all 3 operating systems for laptop keyboard. I'll add more when I think of it.
+3.  It's my hope that ADCS is one of those projects that makes  WIT very futuristic. There's a couple more I can think of but when I go to the senior projects I want to make sure that I'm scouting out various ones that are going to be contributing to this idea that like, it's gonna be contributing to the future of the institute.
+
+4.  There is no easy way to map custom key bindings on all 3 operating systems for laptop keyboard. I'll add more when I think of it.
+
+5.  Last thing I want to write in here is that there's basically no real reason at this exact moment in time that we can't compete with the other institute of technology.  We don't have all the same amounts of money but everyone loves an underdog story ;]
