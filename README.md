@@ -11,3 +11,6 @@ The other project that is really contributing in this area is the shake table ma
 4.  There is no easy way to map custom key bindings on all 3 operating systems for laptop keyboard. I'll add more when I think of it.
 
 5.  Last thing I want to write in here is that there's basically no real reason at this exact moment in time that we can't compete with the other institute of technology.  We don't have all the same amounts of money but everyone loves an underdog story ;]
+
+6.  When we're here at WIT, what we need to think, is ``what would the future look like" and then come up with clear plans taht are going to make the present moment look like that.  So for example, I think there should be more flashy robots at WIT, well, we're working on making that happen.  There's other changes too but basically, uhhh yah.
+
